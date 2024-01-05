@@ -1,0 +1,4 @@
+jupyter nbconvert --to notebook --execute neuronale_netz.ipynb
+
+
+pip install -r requirements.txt
